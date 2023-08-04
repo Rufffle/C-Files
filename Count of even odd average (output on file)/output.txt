@@ -1,0 +1,2 @@
+Average of even number from the series = 3.00
+Average of odd number from the series = 3.00

@@ -1,0 +1,1 @@
+GCD of 24 and 58 is = 2

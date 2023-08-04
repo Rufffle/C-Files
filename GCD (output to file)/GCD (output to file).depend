@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556538680 source:c:\users\user\desktop\roudro\extra\gcd (output to file)\main.c
+	<stdio.h>
+	<stdlib.h>
+

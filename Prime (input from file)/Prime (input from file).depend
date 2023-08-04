@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556539266 source:c:\users\user\desktop\roudro\extra\prime (input from file)\main.c
+	<stdio.h>
+	<stdlib.h>
+
